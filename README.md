@@ -1,8 +1,8 @@
-# C-Programs
+# Cryptography and Network Security
 
-## Cryptography and Network Security Codes
+## Cryptography & Network Security Codes
 
-### Program List:
+## Program List:
 
 1. **Caesar Cipher**
 
