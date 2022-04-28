@@ -6,9 +6,9 @@
 
 1. **Caesar Cipher**
 
-2. **Playfair Cipher**
+2. **Hill Cipher**
 
-3. **Hill Cipher**
+3. **Playfair Cipher**
 
 4. **Vigenere Cipher**
 
